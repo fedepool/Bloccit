@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Bloccit::Application.config.secret_token = '892315f65a849e2247619f01e28281da0d10f5b36526e5fca491f04c6d6b1c1087b9a9c89375dd4083d558c5c428bdbe993d15268d177d8f154749605be7a176'
+Bloccit::Application.config.secret_token = '57af0adebef48ba55c43614c88b39f2818c30a300ab903fa16d29ba06f89fe50b00897005f04651bea68850f3647b514854d0a768bfe6f9f333168996cf51858'
